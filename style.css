@@ -1,0 +1,61 @@
+* { 
+   margin: 0;
+   padding: 0;
+}
+
+/* STYLE SECTIONING TAGS */
+body {
+  font-family: Georgia, 'Times New Roman', Times;
+  text-align: center; 
+  color: deepskyblue; /* Default text color */
+  background-color: aliceblue; /* Background color */
+  
+}
+
+/* STYLE TEXT */
+
+h1 {
+  font-size: 2.2em;
+  color: black;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+/* STYLE IMAGES */
+ul {
+list-style-type: none;
+margin: 1em;
+padding: 1em;
+overflow: hidden;
+background-color: lightskyblue;
+}
+
+/* STYLE TEXT */
+p {
+  font-size: 1.2em;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em; 
+  color: black;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  float: center;
+  font-size: 1.5em;
+  padding: 1em;
+}
+
+header {
+  background-color: skyblue;
+  color: black;
+  text-align: center; 
+}
+
+img  { 
+  margin-bottom: 2em;
+  border: 3px solid deepskyblue;
+}
